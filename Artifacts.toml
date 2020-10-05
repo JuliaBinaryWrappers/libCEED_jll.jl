@@ -1,0 +1,99 @@
+[[libCEED]]
+arch = "aarch64"
+git-tree-sha1 = "8afa2285792b55a4e2839bed0cd3830d0a76f537"
+libc = "glibc"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "6de3d5900006843ea6351b5b34e481c90658e037a28302ad7fa8df1185bd342e"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.aarch64-linux-gnu.tar.gz"
+[[libCEED]]
+arch = "aarch64"
+git-tree-sha1 = "a7a04433dbf0a867309926a54abb134aec1377b3"
+libc = "musl"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "bb29f2bb3ec9d69b1167e76a9beea5f7c5dbc36eae44d0a13801faadf965977b"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.aarch64-linux-musl.tar.gz"
+[[libCEED]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "16bf4e4f3d759ed42bd4376e3a5a7990eaaaee26"
+libc = "glibc"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "f8cc44317c8f0579212b0009fa224d148b8ac274b668141a4a6643c05e6d3007"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.armv7l-linux-gnueabihf.tar.gz"
+[[libCEED]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "50c87850f7e3cf0c61d0b2a4a328fd72de2851ea"
+libc = "musl"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "7807d38c2599b90be1ea61af5dcb90732499d43d414aa59d070b1a91aaff3890"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.armv7l-linux-musleabihf.tar.gz"
+[[libCEED]]
+arch = "i686"
+git-tree-sha1 = "1f5b1d537333c6a3e43746ae285194a604fbe9da"
+libc = "glibc"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "c947fa2541d4ffa29c37fc26a0483544247ea63df5e1f1f4214c99af5b307ff3"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.i686-linux-gnu.tar.gz"
+[[libCEED]]
+arch = "i686"
+git-tree-sha1 = "d425700163ea33cfc1cdd519c97c5101219a6575"
+libc = "musl"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "45eae78e9530d59f4c814060b267877078c8326ec1c04a2ffa865cbfdd948711"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.i686-linux-musl.tar.gz"
+[[libCEED]]
+arch = "powerpc64le"
+git-tree-sha1 = "683fc15054ef2ad2218c92e7ca06f5432c57afa5"
+libc = "glibc"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "9a7706fa41393b0d8128327239cab6db75248d33924e67908ce63c339e5c39c9"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.powerpc64le-linux-gnu.tar.gz"
+[[libCEED]]
+arch = "x86_64"
+git-tree-sha1 = "ebcaff6f5d7b7a763cd08c7df4bc307b5d7d6684"
+os = "macos"
+
+    [[libCEED.download]]
+    sha256 = "400d20ff30a3da0fecad2c886e4194f2b492817675e335a026f8888dc44921c5"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.x86_64-apple-darwin.tar.gz"
+[[libCEED]]
+arch = "x86_64"
+git-tree-sha1 = "4326b5b4433bda151acfa1fc872a5b455b916929"
+libc = "glibc"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "29d75e368e1dbb6afccdab1f9bd70974538f03edd14445bf8fdb98e581e5407f"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.x86_64-linux-gnu.tar.gz"
+[[libCEED]]
+arch = "x86_64"
+git-tree-sha1 = "ff95edbd97dfd34c84b49bea3180a0a5ccbc1d37"
+libc = "musl"
+os = "linux"
+
+    [[libCEED.download]]
+    sha256 = "fd6be97fe0a94f871fcd225aeb84df4104aa21536157ae1c359f7306208b7ed1"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.x86_64-linux-musl.tar.gz"
+[[libCEED]]
+arch = "x86_64"
+git-tree-sha1 = "aa9c434ff5b14fbf957f816a1995f1efad8678cb"
+os = "freebsd"
+
+    [[libCEED.download]]
+    sha256 = "c0a81244ab4bd489159faf60aeec31c18fe6c3a7aabe7dffbd9d30083e8d0380"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+0/libCEED.v0.7.0.x86_64-unknown-freebsd.tar.gz"
