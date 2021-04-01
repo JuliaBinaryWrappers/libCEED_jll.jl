@@ -1,99 +1,99 @@
 [[libCEED]]
 arch = "aarch64"
-git-tree-sha1 = "aa789571a4a121da981c01cf4ba66c612d4dae49"
+git-tree-sha1 = "d34f6160c64d6d77fa4ee014b7b3ef53d7ea0097"
 libc = "glibc"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "07ad7d80095cd9872e0457a5af185ad66934cad6ceff3b2731773abe2f3b9823"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "934736b56494ecb4cfec59d3f45e4c991d404a4ba45822c805cab449bfb2e331"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.aarch64-linux-gnu.tar.gz"
 [[libCEED]]
 arch = "aarch64"
-git-tree-sha1 = "579d689eccc85523d5a91d5397be39dc7e53e2e3"
+git-tree-sha1 = "31d218cda3bb949237443b5613c44265e1d500c5"
 libc = "musl"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "d99d9c08194b54d04b40a093f1c76d2eadea4accd4d820c98e9cbc234c526270"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.aarch64-linux-musl.tar.gz"
+    sha256 = "6cfd0ac27ee7d37c8536aee9d5cd7515452cccc47543669633f55fa5d4a6051c"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.aarch64-linux-musl.tar.gz"
 [[libCEED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c7527c76c1733e72f056d4dfed859690ea5222db"
+git-tree-sha1 = "bbf93a74f6af27b352423c07820d235db4ffb558"
 libc = "glibc"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "f75a5f2b6782d28bbc877ae9d7c12cdba3ae0dd85090d694e1ce47ee5469a976"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4d251d3a08685961b8fd1431e5ceda01e5b1605164b3d031383fcf580150b7c2"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.armv7l-linux-gnueabihf.tar.gz"
 [[libCEED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "651578b7e3f6fd0987c6321110e31ea65a7bfd91"
+git-tree-sha1 = "89e36897ae25edff8e0ae8deff089d0cbc0463f7"
 libc = "musl"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "c0f1bd5319a38933206c8febf0e454f55de301b8bbd3f83e3a0ca87474a9b5c6"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "763e7a53629d9343b121ae6adf42a7a62d75a019023fc1f06c92aaad9d592941"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.armv7l-linux-musleabihf.tar.gz"
 [[libCEED]]
 arch = "i686"
-git-tree-sha1 = "2d2d6b4b5f334962b23805e06d4f5fba86239e96"
+git-tree-sha1 = "ed66a251cd323bb018ef76d000b482217e3990c0"
 libc = "glibc"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "4ee405f89fe26a1421b3be9f370f8be118eea8b9a4c4b15bdf47b51fb10d1793"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.i686-linux-gnu.tar.gz"
+    sha256 = "4507f08c3777934a5c4eb56bcf1a254c2f89abd2e9098ed24f2011ecfa1e9b7a"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.i686-linux-gnu.tar.gz"
 [[libCEED]]
 arch = "i686"
-git-tree-sha1 = "48c0d07932a5387a64cc11f17409f9d30caa597a"
+git-tree-sha1 = "33978495249ed6d6bde998e2949251dd677ce703"
 libc = "musl"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "c07e611639b7c7a72be82fbebd63149ca2de64ec8999303f4cd23f2cf10132be"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.i686-linux-musl.tar.gz"
+    sha256 = "f15164565c445777f323ffdf47832ff482585b19ac88516739822e2dd9ee94a5"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.i686-linux-musl.tar.gz"
 [[libCEED]]
 arch = "powerpc64le"
-git-tree-sha1 = "a7899cd7dca9b9f8cbb5b926d3c395870aa99b74"
+git-tree-sha1 = "1c7f0280e7f812d365fe2df29bbb3f847f8755e5"
 libc = "glibc"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "7b928d054e83459dd9306613bdbbc3d36d6ee9f8ab4c0dc9460d1d85a9fa59b9"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "1cee9603387bf63e14264878f787ed5b4d536516c5e36621030168634323395f"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.powerpc64le-linux-gnu.tar.gz"
 [[libCEED]]
 arch = "x86_64"
-git-tree-sha1 = "392c08b47fdd6f96a1794dc73f89e1ee9801c2ff"
+git-tree-sha1 = "cb4a9992ec89470f6fd5117c9a0f0ecf44506148"
 os = "macos"
 
     [[libCEED.download]]
-    sha256 = "f669f5b477a81c1e680476c5d902777b6397a44d66a92ef4b15e6a69eda21760"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "fff3af1b06e0a895def18363a82ab70c6ecde4933ba3d1817d5594affc02f59b"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.x86_64-apple-darwin.tar.gz"
 [[libCEED]]
 arch = "x86_64"
-git-tree-sha1 = "90a5912a5de7b86e8905f57e171e37ffafce99cf"
+git-tree-sha1 = "a492d5d1ed132d6849597bc9629e0be3cb8f89b2"
 libc = "glibc"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "a60cf4de2cd6300dd19fa500bc18d4078d3eccf73adf12514b40d3c690bc0fc5"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "d87963c4c83a1852110c8a19791857ff82c10da3f7dc227df83058dc98de5a51"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.x86_64-linux-gnu.tar.gz"
 [[libCEED]]
 arch = "x86_64"
-git-tree-sha1 = "f2a3034e8da9606995623344fca6b2c76dc2417a"
+git-tree-sha1 = "33a857afab1c7ec8e90057e8d56626f7163c0a64"
 libc = "musl"
 os = "linux"
 
     [[libCEED.download]]
-    sha256 = "76d0815d4861050243b02ce41aef753993a58cb6ee52c96981a84c29a4176d0c"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.x86_64-linux-musl.tar.gz"
+    sha256 = "14e3c1ed38653ff88a92afa05aafdf65ea00f787129c9700b1d4b2876c735edf"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.x86_64-linux-musl.tar.gz"
 [[libCEED]]
 arch = "x86_64"
-git-tree-sha1 = "63a5b08a27452f9a48c7bd2938b534108059c3e8"
+git-tree-sha1 = "e5dcea3071cfedfd1e7781f475e3f566cf89ba3e"
 os = "freebsd"
 
     [[libCEED.download]]
-    sha256 = "30e7767bd04ea7fdaa93d2be09cc652ae51c66a5e3b4f8ad6e312cf9366f0882"
-    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.7.0+1/libCEED.v0.7.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c4c307f427869294c318934c4a1fb59ab469045ceb79a2385d627d9804e8a504"
+    url = "https://github.com/JuliaBinaryWrappers/libCEED_jll.jl/releases/download/libCEED-v0.8.0+0/libCEED.v0.8.0.x86_64-unknown-freebsd.tar.gz"
